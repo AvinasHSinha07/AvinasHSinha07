@@ -1,6 +1,4 @@
-﻿<div align="center">
-  <img src="./Banner.png" alt="Full Stack Developer Banner" width="100%">
-</div>
+﻿![Banner Image](Banner.png)
 
 <div align="center">
   <h1 style="display: inline-block">Hi 👋, I'm Avinash Sinha </h1>
