@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Enthusiast&descAlignY=60&descAlign=62" alt="Profile Banner" width="100%">
+  <img src="./Banner.png" alt="Full Stack Developer Banner" width="100%">
 </div>
 
 <div align="center">
