@@ -8,7 +8,7 @@
   <h1 style="display: inline-block">Hi 👋, I'm a Full-Stack Developer</h1>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Passionate+Full-Stack+Web+Developer;Building+Scalable+SaaS+%26+Web+Apps;React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+Prisma" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=750&lines=🎓+CSE+Graduate+bridging+Software+Engineering+%26+Data;💻+Full-Stack+Web+scalable+products+%26+SaaS+(React%2C+Node.js%2C+TS);🤖+Machine+Learning%2C+Python+%26+Web+Scraping" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,9 +29,7 @@
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> <b> Connect With Me:</b>
 
 <p align="left">
-  <a href="https://linkedin.com/in/avinashsinha" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://twitter.com/avinashsinha" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" width="40" /></a>
-  <a href="https://dev.to/avinashsinha" target="blank"><img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/avinash-sinha-89ba02184/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
   <a href="mailto:avinashsinha751@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" width="40" /></a>
 </p>
 
@@ -67,13 +65,7 @@
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AvinasHSinha07&theme=dracula&column=7&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📈 GitHub Stats & Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvinasHSinha07&theme=dracula&hide_border=true&include_all_commits=true&show_icons=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinasHSinha07&theme=dracula&hide_border=true&include_all_commits=true&layout=compact" width="49%" />
-</p>
-
-### 📊 Profile Summary
+###  Profile Summary
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvinasHSinha07&theme=dracula" width="100%">
 </p>
