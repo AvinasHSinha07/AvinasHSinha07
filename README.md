@@ -22,7 +22,7 @@
 - 🌱 I’m constantly learning and currently exploring **Docker, GraphQL, and Advanced Cloud Architecture**.
 - 💬 Ask me about **Full-Stack Development, React, Next.js, APIs, or Database Modeling**.
 - 🌐 Explore my projects in my **[Portfolio](https://avinashsinha.netlify.app/)** and check out my **[Resume](https://drive.google.com/file/d/1_esSMO5sHf9-bKyfUk7sedXIq-MQqsxc/view)**.
-- 📫 Reach out to me at: **[your-email@example.com](mailto:your-email@example.com)**
+- 📫 Reach out to me at: **[avinashsinha751@gmail.com](mailto:avinashsinha751@gmail.com)**
 
 <br/>
 
@@ -32,7 +32,7 @@
   <a href="https://linkedin.com/in/avinashsinha" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
   <a href="https://twitter.com/avinashsinha" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" width="40" /></a>
   <a href="https://dev.to/avinashsinha" target="blank"><img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" height="40" width="40" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" width="40" /></a>
+  <a href="mailto:avinashsinha751@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" width="40" /></a>
 </p>
 
 <br/>
@@ -69,13 +69,17 @@
 
 ### 📈 GitHub Stats & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvinasHSinha07&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinasHSinha07&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AvinasHSinha07&theme=dracula&hide_border=true&include_all_commits=true&show_icons=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinasHSinha07&theme=dracula&hide_border=true&include_all_commits=true&layout=compact" width="49%" />
 </p>
 
 ### 📊 Profile Summary
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvinasHSinha07&theme=dracula" width="100%">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AvinasHSinha07&theme=dracula" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AvinasHSinha07&theme=dracula" width="49%">
 </p>
 
 ### 🔥 Streak & Activity Graph
