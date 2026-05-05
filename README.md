@@ -21,7 +21,7 @@
 - 🔭 Currently working on exciting projects like **Foodhub** (Marketplace) and **Planora** (SaaS platform).
 - 🌱 I’m constantly learning and currently exploring **Docker, GraphQL, and Advanced Cloud Architecture**.
 - 💬 Ask me about **Full-Stack Development, React, Next.js, APIs, or Database Modeling**.
-- 🌐 Explore my projects in my **[Portfolio](https://your-portfolio-link.com/)** and check out my **[Resume](https://your-resume-link.com/)**.
+- 🌐 Explore my projects in my **[Portfolio](https://avinashsinha.netlify.app/)** and check out my **[Resume](https://drive.google.com/file/d/1_esSMO5sHf9-bKyfUk7sedXIq-MQqsxc/view)**.
 - 📫 Reach out to me at: **[your-email@example.com](mailto:your-email@example.com)**
 
 <br/>
@@ -29,9 +29,9 @@
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> <b> Connect With Me:</b>
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://twitter.com/yourusername" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" width="40" /></a>
-  <a href="https://dev.to/yourusername" target="blank"><img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/avinashsinha" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://twitter.com/avinashsinha" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" width="40" /></a>
+  <a href="https://dev.to/avinashsinha" target="blank"><img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" height="40" width="40" /></a>
   <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" width="40" /></a>
 </p>
 
@@ -65,18 +65,18 @@
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"> <b> GitHub Statistics & Analysis:</b>
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&column=7&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=avinashsinha&theme=dracula&column=7&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 GitHub Stats & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avinashsinha&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashsinha&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
 </p>
 
 ### 🔥 Streak & Activity Graph
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=dracula&hide_border=true" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=dracula&hide_border=true&area=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=avinashsinha&theme=dracula&hide_border=true" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinashsinha&theme=dracula&hide_border=true&area=true" width="49%" />
 </p>
 
 <br/>
@@ -89,5 +89,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=avinashsinha&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
