@@ -6,7 +6,7 @@
   <h1 style="display: inline-block">Hi 👋, I'm Avinash Sinha </h1>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2B90FF&center=true&vCenter=true&width=750&lines=🎓+CSE+Graduate+bridging+Software+Engineering+%26+Data;💻+Full-Stack+Web+scalable+products+%26+SaaS+(React%2C+Node.js%2C+TS);🤖+Machine+Learning%2C+Python+%26+Web+Scraping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2B90FF&center=true&vCenter=true&width=800&lines=CSE+Graduate+bridging+Software+Engineering+%26+Data;Building+Scalable+Web+Products+%26+SaaS;Exploring+Machine+Learning%2C+Python+%26+Web+Scraping" alt="Typing SVG" />
   </a>
 </div>
 
