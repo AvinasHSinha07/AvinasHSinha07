@@ -65,18 +65,23 @@
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"> <b> GitHub Statistics & Analysis:</b>
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=avinashsinha&theme=dracula&column=7&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AvinasHSinha07&theme=dracula&column=7&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 GitHub Stats & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinashsinha&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashsinha&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AvinasHSinha07&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinasHSinha07&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+</p>
+
+### 📊 Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvinasHSinha07&theme=dracula" width="100%">
 </p>
 
 ### 🔥 Streak & Activity Graph
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=avinashsinha&theme=dracula&hide_border=true" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinashsinha&theme=dracula&hide_border=true&area=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=AvinasHSinha07&theme=dracula&hide_border=true" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinasHSinha07&theme=dracula&hide_border=true&area=true" width="49%" />
 </p>
 
 <br/>
@@ -89,5 +94,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avinashsinha&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AvinasHSinha07&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
