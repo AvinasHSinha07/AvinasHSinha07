@@ -1,53 +1,93 @@
-# Hi 👋, I'm <YOUR NAME>
-### 🔭 Full-Stack Developer specializing in React, Next.js, and scalable backend systems.
+<!--- banner placeholder --->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=62" alt="Profile Banner" width="100%">
 
----
+<br/>
+
+<!--- title and typing animation --->
+<div align="center">
+  <h1 style="display: inline-block">Hi 👋, I'm a Full-Stack Developer</h1>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Passionate+Full-Stack+Web+Developer;Building+Scalable+SaaS+%26+Web+Apps;React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+Prisma" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
 
 ## 👨‍💻 About Me
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I focus on creating clean, scalable code and solving complex problems.
-Currently, I'm working on SaaS platforms and marketplace applications using **TypeScript**, **Next.js**, and **Prisma**.
+
+- 🖥️ I’m currently building scalable web products with **React.js, Next.js, and TypeScript**.
+- 🗄️ My backend stack is powered by **Node.js, Express.js, Prisma, PostgreSQL, and MongoDB**.
+- 🔭 Currently working on exciting projects like **Foodhub** (Marketplace) and **Planora** (SaaS platform).
+- 🌱 I’m constantly learning and currently exploring **Docker, GraphQL, and Advanced Cloud Architecture**.
+- 💬 Ask me about **Full-Stack Development, React, Next.js, APIs, or Database Modeling**.
+- 🌐 Explore my projects in my **[Portfolio](https://your-portfolio-link.com/)** and check out my **[Resume](https://your-resume-link.com/)**.
+- 📫 Reach out to me at: **[your-email@example.com](mailto:your-email@example.com)**
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> <b> Connect With Me:</b>
+
+<p align="left">
+  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://twitter.com/yourusername" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" width="40" /></a>
+  <a href="https://dev.to/yourusername" target="blank"><img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" height="40" width="40" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" width="40" /></a>
+</p>
+
+<br/>
+
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"> <b> Technology Stack:</b>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,materialui&theme=dark" alt="Frontend Specs" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express&theme=dark" alt="Frameworks" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,mysql,supabase&theme=dark" alt="Database" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel&theme=dark" alt="Tools" />
+  </a>
+</p>
+
+<br/>
+
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"> <b> GitHub Statistics & Analysis:</b>
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&column=7&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📈 GitHub Stats & Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+</p>
+
+### 🔥 Streak & Activity Graph
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=dracula&hide_border=true" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=dracula&hide_border=true&area=true" width="49%" />
+</p>
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"> <b> Random Dev Quote:</b>
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-### **Frontend**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-
-### **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
----
-
-## 🚀 Featured Projects
-
-- **[Foodhub](link-to-repo):** A comprehensive food delivery marketplace with a scalable backend (Node.js/Prisma) and a modern frontend (Next.js/Tailwind).
-- **[Planora](link-to-repo):** A SaaS platform for management and planning, built with Next.js and Prisma.
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-
----
-
-## 📊 GitHub Stats
-
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
