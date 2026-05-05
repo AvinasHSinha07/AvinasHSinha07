@@ -58,8 +58,8 @@ I am a Computer Science Engineering Graduate and Full-Stack Developer with a str
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvinasHSinha07&theme=dracula&hide_border=true&include_all_commits=true&show_icons=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinasHSinha07&theme=dracula&hide_border=true&include_all_commits=true&layout=compact" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AvinasHSinha07&theme=dracula&hide_border=true&show_icons=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinasHSinha07&theme=dracula&hide_border=true&layout=compact" width="49%" alt="Top Languages" />
 </div>
 
 <br/>
