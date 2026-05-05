@@ -20,14 +20,14 @@
 
 <br/>
 
-### 👨‍💻 **About Me**
+### 👨‍💻 About Me
 <hr>
-A passionate **Computer Science Engineering Graduate** and **Full-Stack Developer** with a strong foundation in modern web technologies and a growing expertise in **AI, Machine Learning, and Web Scraping**. I thrive on building scalable, performant SaaS platforms and integrating intelligent, data-driven solutions.
+I am a Computer Science Engineering Graduate and Full-Stack Developer with a strong foundation in modern web technologies and a growing expertise in AI, Machine Learning, and Web Scraping. I thrive on building scalable, performant SaaS platforms and integrating intelligent, data-driven solutions.
 
-- 🚀 **Currently Building:** Scalable web products like **Foodhub** (Marketplace) and **Planora** (SaaS platform).
-- 💡 **Specialized In:** React.js, Next.js, Node.js, and TypeScript.
-- 🔍 **Exploring & Working With:** Python, Machine Learning (AI), Web Scraping (Playwright, Selenium), Docker, and GraphQL.
-- 🤝 **Let's Connect:** I'm always open to discussing Full-Stack Architecture, AI integrations, or new opportunities!
+- 🚀 Currently Building: Scalable web products like Foodhub (Marketplace) and Planora (SaaS platform).
+- 💡 Specialized In: React.js, Next.js, Node.js, and TypeScript.
+- 🔍 Exploring & Working With: Python, Machine Learning, Web Scraping (Playwright, Selenium), Docker, and GraphQL.
+- 🤝 Let's Connect: I am always open to discussing Full-Stack Architecture, AI integrations, or new opportunities.
 
 <br/>
 
