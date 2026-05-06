@@ -54,7 +54,7 @@ I am a Computer Science Engineering Graduate and Full-Stack Developer with a str
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvinasHSinha07&theme=dracula" width="100%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvinasHSinha07" width="100%">
     </td>
     <td width="50%">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinasHSinha07&theme=dracula&hide_border=true&area=true" width="100%" />
