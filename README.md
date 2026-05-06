@@ -62,10 +62,10 @@ I am a Computer Science Engineering Graduate and Full-Stack Developer with a str
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AvinasHSinha07&theme=dracula" width="100%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AvinasHSinha07" width="100%">
     </td>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AvinasHSinha07&theme=dracula" width="100%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AvinasHSinha07" width="100%">
     </td>
   </tr>
 </table>
@@ -73,7 +73,7 @@ I am a Computer Science Engineering Graduate and Full-Stack Developer with a str
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AvinasHSinha07&theme=dracula&hide_border=true" width="100%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AvinasHSinha07" width="100%" alt="GitHub Streak" />
 </div>
 
 <br/>
